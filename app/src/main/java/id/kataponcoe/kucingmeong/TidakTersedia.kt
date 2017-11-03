@@ -15,9 +15,4 @@ class TidakTersedia : Activity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.tidak_tersedia)
     }
-
-    fun onClick(arg0: View) {
-        // TODO Auto-generated method stub
-        finish()
-    }
 }
